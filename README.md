@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZZK520
 - 👀 I’m interested in Full Stack
 - 🌱 I’m currently learning Three.js
-- 💞️ I’m looking to collaborate on something interesting
+- 💞️ I’m looking to doing something interesting together
 - 📫 How to reach me mail:zzk752330461@gmail.com
 
 <!---
